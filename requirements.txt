@@ -1,0 +1,7 @@
+streamlit
+pydub
+moviepy
+deepgram-sdk
+requests
+python-dotenv
+soundfile
