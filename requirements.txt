@@ -6,5 +6,5 @@ requests
 python-dotenv
 soundfile
 librosa
-ffmpeg
-ffprobe
+ffmpeg-python
+streamlit
