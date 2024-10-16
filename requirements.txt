@@ -5,3 +5,4 @@ deepgram-sdk
 requests
 python-dotenv
 soundfile
+librosa
